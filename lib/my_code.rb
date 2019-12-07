@@ -20,5 +20,7 @@ def reduce(array, startingv = nil)
   
   while i < array.length do 
     num1 = yield(num1, array[i])
+    i += 1 
+  end
 
 end
