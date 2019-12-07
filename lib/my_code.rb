@@ -22,5 +22,5 @@ def reduce(array, startingv = nil)
     num1 = yield(num1, array[i])
     i += 1 
   end
-
+return num1 
 end
