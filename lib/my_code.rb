@@ -14,7 +14,7 @@ def reduce(array, startingv = nil)
     num1 = startingv
     i = 0 
   else
-    
+    num1 = array[0]
   
 
 end
