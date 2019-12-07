@@ -18,6 +18,6 @@ def reduce(array, startingv = nil)
     i = 1 
   end
   
-  while i 
+  while i < array.length do 
 
 end
