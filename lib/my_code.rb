@@ -11,7 +11,7 @@ end
 
 def reduce(array, startingv = nil) 
   if startingv
-    num1
+    num1 = startingv
   
 
 end
