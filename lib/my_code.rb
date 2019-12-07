@@ -10,7 +10,8 @@ def map(source_array)
 end
 
 def reduce(array, startingv = nil) 
-  
+  if startingv
+    num1
   
 
 end
